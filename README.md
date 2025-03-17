@@ -2,7 +2,7 @@
 
 ```
 sudo apt update && sudo apt install -y python3-pip openjdk-17-jdk unzip
-pip install --upgrade buildozer cython virtualenv
+pip install --upgrade buildozer cython virtualenv setuptools
 ```
 
 ```
