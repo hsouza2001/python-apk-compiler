@@ -1,7 +1,8 @@
 # python-apk-compiler
 
 ```
-sudo apt update && sudo apt install -y python3-pip openjdk-17-jdk unzip
+sudo apt update
+sudo apt install git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
 pip install --upgrade buildozer cython virtualenv setuptools
 ```
 
